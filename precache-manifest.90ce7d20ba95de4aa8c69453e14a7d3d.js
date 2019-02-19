@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "f33df365d6d0255b586f2920355e94d7",
-    "url": "/static/media/Simple-Line-Icons.f33df365.eot"
+    "revision": "0cb0b9c589c0624c9c78dd3d83e946f6",
+    "url": "/static/media/Simple-Line-Icons.0cb0b9c5.woff2"
   },
   {
     "revision": "1193cb7257b986f0ae75",
@@ -28,16 +28,16 @@ self.__precacheManifest = [
     "url": "/static/js/main.1193cb72.chunk.js"
   },
   {
-    "revision": "0cb0b9c589c0624c9c78dd3d83e946f6",
-    "url": "/static/media/Simple-Line-Icons.0cb0b9c5.woff2"
-  },
-  {
-    "revision": "d2285965fe34b05465047401b8595dd0",
-    "url": "/static/media/Simple-Line-Icons.d2285965.ttf"
+    "revision": "f33df365d6d0255b586f2920355e94d7",
+    "url": "/static/media/Simple-Line-Icons.f33df365.eot"
   },
   {
     "revision": "78f07e2c2a535c26ef21d95e41bd7175",
     "url": "/static/media/Simple-Line-Icons.78f07e2c.woff"
+  },
+  {
+    "revision": "d2285965fe34b05465047401b8595dd0",
+    "url": "/static/media/Simple-Line-Icons.d2285965.ttf"
   },
   {
     "revision": "d1f70ae2c1bdf4bf9f2f",
