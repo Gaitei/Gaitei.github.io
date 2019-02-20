@@ -1,17 +1,17 @@
 {
   "main.css": "/static/css/main.6536cf26.chunk.css",
-  "main.js": "/static/js/main.6976c41b.chunk.js",
-  "main.js.map": "/static/js/main.6976c41b.chunk.js.map",
+  "main.js": "/static/js/main.7278f827.chunk.js",
+  "main.js.map": "/static/js/main.7278f827.chunk.js.map",
   "static/css/1.58ac6baa.chunk.css": "/static/css/1.58ac6baa.chunk.css",
-  "static/js/1.98f493f0.chunk.js": "/static/js/1.98f493f0.chunk.js",
-  "static/js/1.98f493f0.chunk.js.map": "/static/js/1.98f493f0.chunk.js.map",
+  "static/js/1.fc3d4d9f.chunk.js": "/static/js/1.fc3d4d9f.chunk.js",
+  "static/js/1.fc3d4d9f.chunk.js.map": "/static/js/1.fc3d4d9f.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-  "static/media/simple-line-icons.css": "/static/media/Simple-Line-Icons.f33df365.eot",
+  "static/media/simple-line-icons.css": "/static/media/Simple-Line-Icons.0cb0b9c5.woff2",
   "static/css/main.6536cf26.chunk.css.map": "/static/css/main.6536cf26.chunk.css.map",
   "static/css/1.58ac6baa.chunk.css.map": "/static/css/1.58ac6baa.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.c67681232e8a739501e1ddcd0c987dfc.js": "/precache-manifest.c67681232e8a739501e1ddcd0c987dfc.js",
+  "precache-manifest.92bbded98b83a511369628bf5c47c16d.js": "/precache-manifest.92bbded98b83a511369628bf5c47c16d.js",
   "service-worker.js": "/service-worker.js"
 }
